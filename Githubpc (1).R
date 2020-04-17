@@ -1,5 +1,5 @@
 ###Scrapping
-
+#
 linkPage= "https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic"
 linkPath = '//*[@id="thetable"]'
 
